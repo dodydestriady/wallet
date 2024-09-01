@@ -1,0 +1,16 @@
+one:
+  id: 1
+  name: "John"
+  email: "john@mail.com"
+  entity_type: 'User'
+  password_digest: ''
+  access_token: "123"
+  expiry_token: <%= Time.now + 1.day %>
+two:
+  id: 2
+  name: "Doe"
+  email: "doe@mail.com"
+  entity_type: 'User'
+  password_digest: ''
+  access_token: "321"
+  expiry_token: <%= Time.now + 1.day %>

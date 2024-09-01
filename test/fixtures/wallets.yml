@@ -1,0 +1,8 @@
+one:
+  id: 1
+  walletable_type: 'Entity'
+  walletable_id: 1
+two:
+  id: 2
+  walletable_type: 'Entity'
+  walletable_id: 2
