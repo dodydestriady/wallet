@@ -2,12 +2,12 @@ one:
   id: 1
   source_wallet_id: 1
   target_wallet_id: 2
-  amount: 10000
+  amount: 1000
   description: 'withdraw'
 two:
   id: 2
   source_wallet_id: 2
   target_wallet_id: 1
-  amount: 10000
+  amount: 100000
   description: 'transfer'
   
